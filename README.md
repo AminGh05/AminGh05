@@ -2,7 +2,7 @@
 
 I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Tehran. I consider programming and mathematical problems as a profession and also a nerve-wracking joy. I'm a 2nd year student, so there's a long way for me to learn and create. So happy to see you reviewing my page 😊
 
-
+<br />
 <div align="center">
     <img src="meow-coding.gif" alt="meow-coder" height=500 width=500>
 </div>
