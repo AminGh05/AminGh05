@@ -4,7 +4,7 @@ I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Teh
 
 <br />
 <div align="center">
-    <img src="meow-coding.gif" alt="meow-coder" height=500 width=500>
+    <img src="meow-coding.gif" alt="meow-coder" height=400 width=400>
 </div>
 
 
