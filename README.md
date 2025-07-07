@@ -50,14 +50,24 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
 ## 💻 Projects
 Here are some projects I'm proud of
 
+### Alibaba clone
+
+A complete project out of passion and ambition of learning. It's made of backend repo - based on ASP.NET Core technology - and frontend repo - based on React - which are seperated and public.
+
+- **Technologies:** C#, ASP.NET Core, EF Core, SQLServer, JWT, React, Axios, shadcn/ui
+- **Highlights**: API, JSON, Backend, Frontend, Database, GUI, DDD, Clean Architecture
+
+Link of Backend: [Alibaba-Clone/Backend](https://github.com/AminGh05/Alibaba-Clone-Backend)
+Link of Frontend: [Alibaba-Clone/Frontend](https://github.com/AminGh05/Alibaba-Clone-Frontend)
+
 ### YouTube clone
 
 My final project of Advanced-Programming course in SBU - group
 
 - **Technologies:** Java, Javafx, PostgreSQL
-- **Highlights:** API, Json, Frontend, SQL, Database
+- **Highlights:** API, JSON, Frontend, SQL, Database
 
-Link of the project: [YouTube](https://github.com/Amin-Gh-05/YouTube)
+Link of the project: [YouTube](https://github.com/AminGh05/YouTube)
 
 ### Reddit clone
 
@@ -66,7 +76,7 @@ My midterm projct of Advanced-Programming course in SBU - individual
 - **Technologies:** Java, Javafx, PostgreSQL
 - At first, it was developed to work on a local system with a simple GUI - with no database or standard API. I liked this project, so I decided it should be modified (and it's still in development 😊)
 
-Link of the project: [Reddit](https://github.com/Amin-Gh-05/Reddit)
+Link of the project: [Reddit](https://github.com/AminGh05/Reddit)
 
 ### Tetris clone
 
