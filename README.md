@@ -96,11 +96,11 @@ When I'm not working, you might find me:
 
 ## 📫 How to Connect
 
-- [Linkedin](https://www.linkedin.com/in/amin-ghoorc%C4%A5ian/)
+- [Linkedin](https://www.linkedin.com/in/amin-ghoorc%C4%A5ian/) - for professional profile
 
-- [Instagram](https://www.instagram.com/amin_gh_05/)
+- [Instagram](https://www.instagram.com/amin_gh_05/) - for daily life
 
-- [Telegram](https://t.me/AminGh05)
+- [Telegram](https://t.me/AminGh05) - for real communication
 
 ## My Stats
 
