@@ -96,11 +96,22 @@ When I'm not working, you might find me:
 
 ## 📫 How to Connect
 
-- [Linkedin](https://www.linkedin.com/in/amin-ghoorc%C4%A5ian/) - for professional profile
+You can connect me through: 
 
-- [Instagram](https://www.instagram.com/amin_gh_05/) - for daily life
-
-- [Telegram](https://t.me/AminGh05) - for real communication
+<div align="right">
+    <a href="https://t.me/AminGh05">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <img width=10 />
+    <a href="https://www.kaggle.com/AminGh05">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    </a>
+    <img width=10 />
+    <a href="https://www.linkedin.com/in/amin-ghoorchian">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <img width=25 />
+</div>
 
 ## My Stats
 
