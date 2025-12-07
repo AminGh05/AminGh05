@@ -42,6 +42,14 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
     <img src="icons/postgres.svg" alt="git" height=50 width=50>
     <img width=25>
     <img src="icons/mss.svg" alt="git" height=50 width=50>
+    <img width=25>
+    <img src="icons/numpy.svg" alt="git" height=50 width=50>
+    <img width=25>
+    <img src="icons/pandas.svg" alt="git" height=50 width=50>
+    <img width=25>
+    <img src="icons/matplotlib.svg" alt="git" height=50 width=50>
+    <img width=25>
+    <img src="icons/sklearn.svg" alt="git" height=50 width=50>
 </div>
 
 <br>
