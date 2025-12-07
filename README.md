@@ -2,7 +2,6 @@
 
 I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Tehran. I consider programming and mathematical problems as a profession and also a nerve-wracking joy. I'm a 2nd year student, so there's a long way for me to learn and create. So happy to see you reviewing my page 😊
 
-
 <div align="center">
     <img src="meow-coding.gif" alt="meow-coder" height=500 width=500>
 </div>
@@ -51,9 +50,6 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
     <img width=25>
     <img src="icons/sklearn.svg" alt="git" height=50 width=50>
 </div>
-
-<br>
-<p align="center">A Windows user - Yep that seems disappointing if you were excited to see Linux . Like to try various development tools and technologies!</p>
 
 ## 💻 Projects
 Here are some projects I'm proud of
