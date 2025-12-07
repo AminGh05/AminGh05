@@ -2,8 +2,9 @@
 
 I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Tehran. I consider programming and mathematical problems as a profession and also a nerve-wracking joy. I'm a 2nd year student, so there's a long way for me to learn and create. So happy to see you reviewing my page 😊
 
+<br />
 <div align="center">
-    <img src="meow-coding.gif" alt="meow-coder" height=500 width=500>
+    <img src="meow-coding.gif" alt="meow-coder" height=400 width=400>
 </div>
 
 
@@ -23,23 +24,23 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
 
 <div align="center">
     <img src="icons/git.svg" alt="git" height=50 width=50>
-    <img width=25>
+    <img width=20 />
     <img src="icons/react.svg" alt="git" height=50 width=50>
-    <img width=25>
+    <img width=20 />
     <img src="icons/python.svg" alt="git" height=50 width=50>
-    <img width=25>
+    <img width=20 />
     <img src="icons/c++.svg" alt="git" height=50 width=50>
-    <img width=25>
+    <img width=20 />
     <img src="icons/java.svg" alt="git" height=50 width=50>
-    <img width=25>
+    <img width=20 />
     <img src="icons/csharp.svg" alt="git" height=50 width=50>
-    <img width=25>
+    <img width=20 />
     <img src="icons/js.svg" alt="git" height=50 width=50>
-    <img width=25>
+    <img width=20 />
     <img src="icons/ts.svg" alt="git" height=50 width=50>
-    <img width=25>
+    <img width=20 />
     <img src="icons/postgres.svg" alt="git" height=50 width=50>
-    <img width=25>
+    <img width=20 />
     <img src="icons/mss.svg" alt="git" height=50 width=50>
     <img width=25>
     <img src="icons/numpy.svg" alt="git" height=50 width=50>
@@ -54,14 +55,25 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
 ## 💻 Projects
 Here are some projects I'm proud of
 
+### Alibaba clone
+
+A complete project out of passion and ambition of learning. It's made of backend repo - based on ASP.NET Core technology - and frontend repo - based on React - which are seperated and public.
+
+- **Technologies:** C#, ASP.NET Core, EF Core, SQLServer, JWT, React, Axios, shadcn/ui
+- **Highlights**: API, JSON, Backend, Frontend, Database, GUI, DDD, Clean Architecture
+
+Link of Backend: [Alibaba-Clone/Backend](https://github.com/AminGh05/Alibaba-Clone-Backend)
+
+Link of Frontend: [Alibaba-Clone/Frontend](https://github.com/AminGh05/Alibaba-Clone-Frontend)
+
 ### YouTube clone
 
 My final project of Advanced-Programming course in SBU - group
 
 - **Technologies:** Java, Javafx, PostgreSQL
-- **Highlights:** API, Json, Frontend, SQL, Database
+- **Highlights:** API, JSON, Frontend, SQL, Database
 
-Link of the project: [YouTube](https://github.com/Amin-Gh-05/YouTube)
+Link of the project: [YouTube](https://github.com/AminGh05/YouTube)
 
 ### Reddit clone
 
@@ -70,7 +82,7 @@ My midterm projct of Advanced-Programming course in SBU - individual
 - **Technologies:** Java, Javafx, PostgreSQL
 - At first, it was developed to work on a local system with a simple GUI - with no database or standard API. I liked this project, so I decided it should be modified (and it's still in development 😊)
 
-Link of the project: [Reddit](https://github.com/Amin-Gh-05/Reddit)
+Link of the project: [Reddit](https://github.com/AminGh05/Reddit)
 
 ### Tetris clone
 
@@ -89,15 +101,26 @@ When I'm not working, you might find me:
 
 ## 📫 How to Connect
 
-- [Linkedin](https://www.linkedin.com/in/amin-ghoorc%C4%A5ian/)
+You can connect me through: 
 
-- [Instagram](https://www.instagram.com/amin_gh_05/)
-
-- [Telegram](https://t.me/AminGh05)
+<div align="right">
+    <a href="https://t.me/AminGh05">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+    </a>
+    <img width=10 />
+    <a href="https://www.kaggle.com/AminGh05">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+    </a>
+    <img width=10 />
+    <a href="https://www.linkedin.com/in/amin-ghoorchian">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <img width=25 />
+</div>
 
 ## My Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AminGh05&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Stats1" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminGh05&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Stats2" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=AminGh05&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="Stats1" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminGh05&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="Stats2" height="150">
 </div>
