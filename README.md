@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Tehran. I consider programming and mathematical problems as a profession and also a nerve-wracking joy. I'm a 2nd year student, so there's a long way for me to learn and create. So happy to see you reviewing my page 😊
+I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Tehran. I consider programming and mathematical problems as a profession and also a nerve-wracking joy. I'm a 3rd-year bachelor's student, so there's a long way for me to learn and create. So happy to see you reviewing my page 😊
 
 <br />
 <div align="center">
@@ -75,15 +75,6 @@ My final project of Advanced-Programming course in SBU - group
 
 Link of the project: [YouTube](https://github.com/AminGh05/YouTube)
 
-### Reddit clone
-
-My midterm projct of Advanced-Programming course in SBU - individual
-
-- **Technologies:** Java, Javafx, PostgreSQL
-- At first, it was developed to work on a local system with a simple GUI - with no database or standard API. I liked this project, so I decided it should be modified (and it's still in development 😊)
-
-Link of the project: [Reddit](https://github.com/AminGh05/Reddit)
-
 ### Tetris clone
 
 My final project of Basic-Programming course in SBU - group
@@ -96,7 +87,7 @@ Link of the project: [Tetris](https://github.com/osumy/Tetris)
 
 When I'm not working, you might find me:
 
-- Playing games, Watching movies and series, Reading novels, Playing or persuing sports
+- Playing games, watching movies and series, reading novels, playing or following sports
 - Hanging out with old, new or future friends
 
 ## 📫 How to Connect
