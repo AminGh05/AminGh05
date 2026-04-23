@@ -23,33 +23,33 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
 ## My Tools
 
 <div align="center">
-    <img src="icons/git.svg" alt="git" height=50 width=50>
-    <img width=20 />
-    <img src="icons/react.svg" alt="git" height=50 width=50>
-    <img width=20 />
-    <img src="icons/python.svg" alt="git" height=50 width=50>
-    <img width=20 />
-    <img src="icons/c++.svg" alt="git" height=50 width=50>
-    <img width=20 />
-    <img src="icons/java.svg" alt="git" height=50 width=50>
-    <img width=20 />
-    <img src="icons/csharp.svg" alt="git" height=50 width=50>
-    <img width=20 />
-    <img src="icons/js.svg" alt="git" height=50 width=50>
-    <img width=20 />
-    <img src="icons/ts.svg" alt="git" height=50 width=50>
-    <img width=20 />
-    <img src="icons/postgres.svg" alt="git" height=50 width=50>
-    <img width=20 />
-    <img src="icons/mss.svg" alt="git" height=50 width=50>
-    <img width=25>
-    <img src="icons/numpy.svg" alt="git" height=50 width=50>
-    <img width=25>
-    <img src="icons/pandas.svg" alt="git" height=50 width=50>
-    <img width=25>
-    <img src="icons/matplotlib.svg" alt="git" height=50 width=50>
-    <img width=25>
-    <img src="icons/sklearn.svg" alt="git" height=50 width=50>
+    <img src="icons/git.svg" alt="git" height="50" style="vertical-align: middle;">
+    <img width="20" />
+    <img src="icons/react.svg" alt="react" height="50" style="vertical-align: middle;">
+    <img width="20" />
+    <img src="icons/python.svg" alt="python" height="50" style="vertical-align: middle;">
+    <img width="20" />
+    <img src="icons/c++.svg" alt="c++" height="50" style="vertical-align: middle;">
+    <img width="20" />
+    <img src="icons/java.svg" alt="java" height="50" style="vertical-align: middle;">
+    <img width="20" />
+    <img src="icons/csharp.svg" alt="c#" height="50" style="vertical-align: middle;">
+    <img width="20" />
+    <img src="icons/js.svg" alt="js" height="50" style="vertical-align: middle;">
+    <img width="20" />
+    <img src="icons/ts.svg" alt="ts" height="50" style="vertical-align: middle;">
+    <img width="20" />
+    <img src="icons/postgres.svg" alt="postgres" height="50" style="vertical-align: middle;">
+    <img width="20" />
+    <img src="icons/mss.svg" alt="mss" height="50" style="vertical-align: middle;">
+    <img width="25" />
+    <img src="icons/numpy.svg" alt="numpy" height="50" style="vertical-align: middle;">
+    <img width="25" />
+    <img src="icons/pandas.svg" alt="pandas" height="50" style="vertical-align: middle;">
+    <img width="25" />
+    <img src="icons/matplotlib.svg" alt="matplotlib" height="50" style="vertical-align: middle;">
+    <img width="25" />
+    <img src="icons/sklearn.svg" alt="sklearn" height="50" style="vertical-align: middle;">
 </div>
 
 ## 💻 Projects
