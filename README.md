@@ -7,40 +7,39 @@ I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Teh
     <img src="meow-coding.gif" alt="meow-coder" height=400 width=400>
 </div>
 
-
 ## 📚 Academic Background
 
-I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time and passion to work on these contexts a little bit:
+I'm currently following my bachelor's education in SBU. Meanwhile, I've got time and passion to work on these contexts a little bit:
 
-- Software Engineering (Java & C# with related technologies)
-
+- Software Engineering (Java, C# and Python with related technologies)
 - Game Development (Unity Engine)
-
 - Algrorithms and mathematics (C++ & - a little - Matlab)
-
 - Computer hardware and latest tech
+- Data science and AI (Statistics, Linear Algebra, Classic ML, Neural Networks)
 
 ## My Tools
 
 <div align="center">
     <img src="icons/git.svg" alt="git" height="50" style="vertical-align: middle;">
-    <img width="20" />
+    <img width="25" />
     <img src="icons/react.svg" alt="react" height="50" style="vertical-align: middle;">
-    <img width="20" />
+    <img width="25" />
     <img src="icons/python.svg" alt="python" height="50" style="vertical-align: middle;">
-    <img width="20" />
+    <img width="25" />
+    <img src="icons/django.svg" alt="sklearn" height="50" style="vertical-align: middle;">
+    <img width="25" />
     <img src="icons/c++.svg" alt="c++" height="50" style="vertical-align: middle;">
-    <img width="20" />
+    <img width="25" />
     <img src="icons/java.svg" alt="java" height="50" style="vertical-align: middle;">
-    <img width="20" />
+    <img width="25" />
     <img src="icons/csharp.svg" alt="c#" height="50" style="vertical-align: middle;">
-    <img width="20" />
+    <img width="25" />
     <img src="icons/js.svg" alt="js" height="50" style="vertical-align: middle;">
-    <img width="20" />
+    <img width="25" />
     <img src="icons/ts.svg" alt="ts" height="50" style="vertical-align: middle;">
-    <img width="20" />
+    <img width="25" />
     <img src="icons/postgres.svg" alt="postgres" height="50" style="vertical-align: middle;">
-    <img width="20" />
+    <img width="25" />
     <img src="icons/mss.svg" alt="mss" height="50" style="vertical-align: middle;">
     <img width="25" />
     <img src="icons/numpy.svg" alt="numpy" height="50" style="vertical-align: middle;">
@@ -50,49 +49,13 @@ I'm currently persuing my CS bachelor degree in SBU. Meanwhile, I've got time an
     <img src="icons/matplotlib.svg" alt="matplotlib" height="50" style="vertical-align: middle;">
     <img width="25" />
     <img src="icons/sklearn.svg" alt="sklearn" height="50" style="vertical-align: middle;">
+    <img width="25" />
+    <img src="icons/tensorflow.svg" alt="tf" height="50" style="vertical-align: middle;">
 </div>
-
-## 💻 Projects
-Here are some projects I'm proud of
-
-### Alibaba clone
-
-A complete project out of passion and ambition of learning. It's made of backend repo - based on ASP.NET Core technology - and frontend repo - based on React - which are seperated and public.
-
-- **Technologies:** C#, ASP.NET Core, EF Core, SQLServer, JWT, React, Axios, shadcn/ui
-- **Highlights**: API, JSON, Backend, Frontend, Database, GUI, DDD, Clean Architecture
-
-Link of Backend: [Alibaba-Clone/Backend](https://github.com/AminGh05/Alibaba-Clone-Backend)
-
-Link of Frontend: [Alibaba-Clone/Frontend](https://github.com/AminGh05/Alibaba-Clone-Frontend)
-
-### YouTube clone
-
-My final project of Advanced-Programming course in SBU - group
-
-- **Technologies:** Java, Javafx, PostgreSQL
-- **Highlights:** API, JSON, Frontend, SQL, Database
-
-Link of the project: [YouTube](https://github.com/AminGh05/YouTube)
-
-### Tetris clone
-
-My final project of Basic-Programming course in SBU - group
-
-- This project was developed focused on console arts and algorithms, in C++
-
-Link of the project: [Tetris](https://github.com/osumy/Tetris)
-
-## 🎉 Fun
-
-When I'm not working, you might find me:
-
-- Playing games, watching movies and series, reading novels, playing or following sports
-- Hanging out with old, new or future friends
 
 ## 📫 How to Connect
 
-You can connect me through: 
+You can connect me through:
 
 <div align="right">
     <a href="https://t.me/AminGh05">
