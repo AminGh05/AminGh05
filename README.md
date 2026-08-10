@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Tehran. I consider programming and mathematical problems as a profession and also a nerve-wracking joy. I'm a 3rd-year bachelor's student, so there's a long way for me to learn and create. So happy to see you reviewing my page 😊
+I'm Amin Ghoorchian, Computer Science student at Shahid Beheshti university, Tehran. I consider programming and mathematical problems as a profession and also a nerve-wracking joy. I'm a 3rd-year bachelor's student, so there's a long way for me to learn and create. So happy to see you looking at my page 😊
 
 <br />
 <div align="center">
